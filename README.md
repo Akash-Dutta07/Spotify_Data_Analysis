@@ -123,7 +123,7 @@ Used multi card  💶 to get the insights on the following for the respective tr
   
   ![Screenshot (28)](https://github.com/Akash-Dutta07/Spotify_Data_Analysis/assets/164155681/2c0ca786-33ba-4c57-a2aa-8f63e1bb5e35) 
 
-  **The images 📷 appeared because of the column "Cover_URL" in the spotify Data_sets which we formated in the image section of the Visual panel*
+  *The images 📷 appeared because of the column "Cover_URL" in the spotify Data_sets which we formated in the image section of the Visual panel*
 
   5. Finally, we add a slicer to the top in a drop down format that shows all the tracks .
    we did the same for Dates and Artists_Name.
